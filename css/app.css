@@ -4,7 +4,7 @@
 }
 body {
 margin: 0;
-background-color: #ffcdcc;
+background-color: #3342FF;
 font-size: 48px;
 font-family: PinkChicken, "Comic Sans MS", "Comic Sans", "Chalkboard SE", "Comic Neue", cursive;
 }
@@ -32,5 +32,5 @@ a {
 .active {
     padding:20px;
     color: white;
-    background-color: #ff84aa;
+    background-color: #3342FF;
 }
